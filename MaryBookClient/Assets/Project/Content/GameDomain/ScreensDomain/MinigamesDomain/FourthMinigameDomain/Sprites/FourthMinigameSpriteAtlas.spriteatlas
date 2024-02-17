@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: FourthMinigameSpriteAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 8192
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 1
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 3534054578df9a34d82a135bbfee6b7e, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 64eac0436cc43e74aa431fae71d39e65, type: 3}
+  - {fileID: 21300000, guid: 2dc63605a741b25459c950cfcbe53953, type: 3}
+  - {fileID: 21300000, guid: bf607385b467dfa448367ba1b310e0a7, type: 3}
+  - {fileID: 21300000, guid: 7d03b228e35e4c342a3fc4e3f7a1c279, type: 3}
+  - {fileID: 21300000, guid: d47942c8bad7c264087866a01489a033, type: 3}
+  - {fileID: 21300000, guid: 0a1c054aa3d8e45449b9ca57bf356dee, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - eyal_0
+  - garin
+  - forward
+  - eyal_1
+  - arrow
+  - background
+  m_RenderDataMap: {}
+  m_Tag: FourthMinigameSpriteAtlas
+  m_IsVariant: 0

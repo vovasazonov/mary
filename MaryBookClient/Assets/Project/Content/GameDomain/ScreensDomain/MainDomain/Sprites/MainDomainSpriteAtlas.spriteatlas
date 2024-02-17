@@ -1,0 +1,94 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: MainDomainSpriteAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 2
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 1
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 1e030391647b2a14db1ed96d4cc4a0d6, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: aad43710c7b6c5e46b08068e34d9679c, type: 3}
+  - {fileID: 21300000, guid: fcb5d810a068375489ad187aa85f5f0d, type: 3}
+  - {fileID: 21300000, guid: 6c7dad30aa3bbc54b97276d98753669a, type: 3}
+  - {fileID: 21300000, guid: cb63df7143902a94b91b6fc7dc8d1388, type: 3}
+  - {fileID: 21300000, guid: d6bbda81878871043876334c8ed1939c, type: 3}
+  - {fileID: 21300000, guid: 8fe685a1f193efc49b64c12cc355f03f, type: 3}
+  - {fileID: 21300000, guid: 471f8a92eed05dd488cf6edb4ecb10ac, type: 3}
+  - {fileID: 21300000, guid: 8e1832f361747d440af89510531790ef, type: 3}
+  - {fileID: 21300000, guid: d4a9dec61c314a746b45b0ff3dc540ad, type: 3}
+  - {fileID: 21300000, guid: 3a0f89774b6842643b9c01cdb227deea, type: 3}
+  - {fileID: 21300000, guid: 913f8dc7c51903f41aa653404f1f62ce, type: 3}
+  - {fileID: 21300000, guid: 122bd16877de255498677a6de386ec83, type: 3}
+  - {fileID: 21300000, guid: ed44ff7a60f83b54cb99f77fea8a66c9, type: 3}
+  - {fileID: 21300000, guid: 10f925fabec2c5446a2c3d6ed0eebe2a, type: 3}
+  - {fileID: 21300000, guid: 5bce0acbac30192439c1643d20e5b7b4, type: 3}
+  - {fileID: 21300000, guid: 5af1c3dd91ce8664cb3924fb55b88b66, type: 3}
+  - {fileID: 21300000, guid: e539807e14a54384da3b51900e1ce183, type: 3}
+  - {fileID: 21300000, guid: 41a90cbe2d08e8f44becdad88d37ecae, type: 3}
+  - {fileID: 21300000, guid: 20f666eff6e332e48b2aa47ee952fb6e, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - mask
+  - Roll
+  - Frame 2
+  - Start_Game
+  - back_background_2
+  - third_tree_icon
+  - garin_icon
+  - title
+  - tuci_icon
+  - Frame 1
+  - dialog
+  - shual_icon
+  - Button_start
+  - exit_button
+  - first_tree_icon
+  - setting_icon
+  - second_tree_icon
+  - eyala_icon
+  - background
+  m_RenderDataMap: {}
+  m_Tag: MainDomainSpriteAtlas
+  m_IsVariant: 0

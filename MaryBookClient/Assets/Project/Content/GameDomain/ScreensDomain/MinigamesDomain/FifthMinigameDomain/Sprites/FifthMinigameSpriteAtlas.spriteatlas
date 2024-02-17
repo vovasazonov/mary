@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: FifthMinigameSpriteAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 8192
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 1
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 1d3b548aabf262f498f7004acdd87645, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 93547b60e31009d4d9ff03fe88367574, type: 3}
+  - {fileID: 21300000, guid: 4c195f22a2acd8145a49c8d76660c10c, type: 3}
+  - {fileID: 21300000, guid: 050e2157bc94ab6478c31b294e2a1cce, type: 3}
+  - {fileID: 21300000, guid: 6d6120ec684fea244a16a061d6b1ef1e, type: 3}
+  - {fileID: 21300000, guid: 539f5ecdfe4b92c49823c54944d31d80, type: 3}
+  - {fileID: 21300000, guid: 078bae9ff456d694d82ed28b9e909076, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - eyal_0
+  - eyal_2
+  - sihim
+  - eyal_1
+  - backgrond
+  - Forward
+  m_RenderDataMap: {}
+  m_Tag: FifthMinigameSpriteAtlas
+  m_IsVariant: 0

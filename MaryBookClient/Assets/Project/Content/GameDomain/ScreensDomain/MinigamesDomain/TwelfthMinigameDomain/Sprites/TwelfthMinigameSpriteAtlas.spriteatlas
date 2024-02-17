@@ -1,0 +1,84 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: TwelfthMinigameSpriteAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 8192
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 1
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 9649d3804343ed246bcbd5d701f460f3, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 94e9a952345537d47b4706849c1f9eb5, type: 3}
+  - {fileID: 21300000, guid: e6a903e2edb503f4894cf57a1e821697, type: 3}
+  - {fileID: 21300000, guid: 9fb9f3430091cf5458469b5bdbaf80b8, type: 3}
+  - {fileID: 21300000, guid: e2a3faa545c14f341b9364ced4abd29d, type: 3}
+  - {fileID: 21300000, guid: 34e153f6d4f8f8d4e937a73b0e4fe2d4, type: 3}
+  - {fileID: 21300000, guid: 0f713c58bb4e67945806f1b48741d759, type: 3}
+  - {fileID: 21300000, guid: 44a85fd8128e38442a543333783458c9, type: 3}
+  - {fileID: 21300000, guid: d4f1b989d40d0ba45a13a41a70603cf6, type: 3}
+  - {fileID: 21300000, guid: d298116c6226dae429e842fa9a8b733a, type: 3}
+  - {fileID: 21300000, guid: 25019aac65ec4f140be46a9c258765df, type: 3}
+  - {fileID: 21300000, guid: 7d1b2ceccb1085946a8c84ce3fdf37f4, type: 3}
+  - {fileID: 21300000, guid: b738110db0f16d9408cdff897317fae6, type: 3}
+  - {fileID: 21300000, guid: 4199ed1d9f32aec4fa12df683d448f23, type: 3}
+  - {fileID: 21300000, guid: dd28e08fb94fbc54fa32e6d5179fe74e, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - minigame_1
+  - lock
+  - minigame_7
+  - minigame_10
+  - minigame_9
+  - frame
+  - minigame_8
+  - minigame_4
+  - minigame_11
+  - minigame_6
+  - frame_mask
+  - minigame_5
+  - minigame_2
+  - minigame_3
+  m_RenderDataMap: {}
+  m_Tag: TwelfthMinigameSpriteAtlas
+  m_IsVariant: 0

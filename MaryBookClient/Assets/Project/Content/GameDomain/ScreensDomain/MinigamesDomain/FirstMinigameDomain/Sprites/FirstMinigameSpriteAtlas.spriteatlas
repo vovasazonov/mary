@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: FirstMinigameSpriteAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 8192
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 1
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: ce66d5005de667e419236c836ee3bb86, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 79e11d002c6e0914d9f0f6e7b445b2a3, type: 3}
+  - {fileID: 21300000, guid: aac56811e2b0a164f9b2dce6f3f9c45b, type: 3}
+  - {fileID: 21300000, guid: 5fede861fed810846bc43aa371cd6625, type: 3}
+  - {fileID: 21300000, guid: dbbe709240691374cb4c8168f213c52e, type: 3}
+  - {fileID: 21300000, guid: 794f21237bb6f794b88fe53b7e2c3e29, type: 3}
+  - {fileID: 21300000, guid: 9abb0c96cd8bd894cb01b78a9bfe358d, type: 3}
+  - {fileID: 21300000, guid: dfe0783770738414c9b704a04bf80350, type: 3}
+  - {fileID: 21300000, guid: ccc523b83ee8ca44ba4ab1dfac7caa9d, type: 3}
+  - {fileID: 21300000, guid: 7b93b28bd124e3345b845ecaf92475e5, type: 3}
+  - {fileID: 21300000, guid: bf140c2e0184e9146821843379896989, type: 3}
+  - {fileID: 21300000, guid: c22ea3de8aec0294ebae9a28247bf402, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - BottomTree_1
+  - Orange
+  - arrow
+  - RightUpTree
+  - BottomTree
+  - tuci_1
+  - LeftUpTree
+  - tuci_2
+  - tuci_0
+  - Tuci
+  - FirstMinigameBackground_2092x1024
+  m_RenderDataMap: {}
+  m_Tag: FirstMinigameSpriteAtlas
+  m_IsVariant: 0

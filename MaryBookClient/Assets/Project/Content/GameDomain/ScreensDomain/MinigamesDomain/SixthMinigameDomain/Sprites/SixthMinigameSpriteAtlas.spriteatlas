@@ -1,0 +1,92 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: SixthMinigameSpriteAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 8192
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 1
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 2a57633265163d648a10a015bb14909f, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: b569e201565dce74b87e8d6fa8011c9b, type: 3}
+  - {fileID: 21300000, guid: f0691fe14558cdc468dd8d0b0cdf24e2, type: 3}
+  - {fileID: 21300000, guid: 0faea8d20a749b944951c7af7a187c03, type: 3}
+  - {fileID: 21300000, guid: dedd8df20a1ed9f409212969ed5d19aa, type: 3}
+  - {fileID: 21300000, guid: b309f3f3123cb3742a583cccc292d695, type: 3}
+  - {fileID: 21300000, guid: 115286b5950317d488f423a475cd495b, type: 3}
+  - {fileID: 21300000, guid: de9fc4c6075fb8248bd2cbd1b01af648, type: 3}
+  - {fileID: 21300000, guid: 866a3ff63ec6d6f4c8ae35f925fdf66c, type: 3}
+  - {fileID: 21300000, guid: 316f42775b5e77b4280ede476b0830b1, type: 3}
+  - {fileID: 21300000, guid: f625c2f7431649d438a0e17801517b45, type: 3}
+  - {fileID: 21300000, guid: fb04f99a892dade4185e5239eda8c24b, type: 3}
+  - {fileID: 21300000, guid: 019a8e2bcc9a3bc4bb3ca057ffdbe4ce, type: 3}
+  - {fileID: 21300000, guid: 146b765b70287be4187154b8588cec14, type: 3}
+  - {fileID: 21300000, guid: 8c5bb96b629afde4aa879a9ceb9e51b0, type: 3}
+  - {fileID: 21300000, guid: 30c551abd3b9e40419ddd7cf1aea154d, type: 3}
+  - {fileID: 21300000, guid: 3457050c231fa9e4183cf82f08981f73, type: 3}
+  - {fileID: 21300000, guid: f45f0a1fa8cb5d94596ef7c855f12fc8, type: 3}
+  - {fileID: 21300000, guid: 42cc46ffd645f6847890b96e86d3325d, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - downleg_right_1
+  - rightear_1
+  - downleg_right_0
+  - downleft_right_1
+  - leftear_1
+  - upright_leg_0
+  - upright_leg_1
+  - leftear_0
+  - happy_shual
+  - upleft_leg_0
+  - background
+  - rightear_0
+  - downleft_right_0
+  - zanav_0
+  - upleft_leg_1
+  - right_eye
+  - zanav_1
+  - cut_shual
+  m_RenderDataMap: {}
+  m_Tag: SixthMinigameSpriteAtlas
+  m_IsVariant: 0

@@ -1,0 +1,82 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: EighthMinigameSpriteAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 8192
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 1
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 39216ce4252667c46b1c5928d0b58e6a, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: c246a8c08e38acb4f800bb37039859d3, type: 3}
+  - {fileID: 21300000, guid: 89b801829c32abc41ad3371a4ae36e2d, type: 3}
+  - {fileID: 21300000, guid: 88029b74cb38a9d449c1503e40a3c920, type: 3}
+  - {fileID: 21300000, guid: 8c6ed0944ef0ce547a8e116380653518, type: 3}
+  - {fileID: 21300000, guid: fc16664579653284980b8356a48b1ce8, type: 3}
+  - {fileID: 21300000, guid: f47e7e8a05ce30940bb17f8d5bb321f1, type: 3}
+  - {fileID: 21300000, guid: 767a639a89446de4591c136270e95154, type: 3}
+  - {fileID: 21300000, guid: ed0f033c1d3ebe74bad24f1fcc394704, type: 3}
+  - {fileID: 21300000, guid: e844bf2df80c98147851d4b8c32c3b3a, type: 3}
+  - {fileID: 21300000, guid: 52bcd55d5ebf32c458cace46b66000d2, type: 3}
+  - {fileID: 21300000, guid: a792316d7c1f0b549b69adbdd943a60a, type: 3}
+  - {fileID: 21300000, guid: 6844a8ad9ad87a948a9e46156b536d4e, type: 3}
+  - {fileID: 21300000, guid: d3d3833ee2754364c9832705ca17b5db, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - word_7
+  - word_5
+  - word_9
+  - word_4
+  - word_3
+  - arrow
+  - word_8
+  - word_6
+  - word_0
+  - word_1
+  - words
+  - word_2
+  - background
+  m_RenderDataMap: {}
+  m_Tag: EighthMinigameSpriteAtlas
+  m_IsVariant: 0

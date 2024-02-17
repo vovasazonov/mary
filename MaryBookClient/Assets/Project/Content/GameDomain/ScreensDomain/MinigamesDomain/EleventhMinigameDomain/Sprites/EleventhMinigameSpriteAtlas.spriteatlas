@@ -1,0 +1,94 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: EleventhMinigameSpriteAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 8192
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 1
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 8fc8fd0ce979ebf438d002be0638fb59, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 4bd942e0823954c46b9c6241a3ef6798, type: 3}
+  - {fileID: 21300000, guid: 89640c826253631438e2ce907b7a4124, type: 3}
+  - {fileID: 21300000, guid: e54a6c82928170140807ced568027bf7, type: 3}
+  - {fileID: 21300000, guid: 5859c4049bafe89449b50c7df270861b, type: 3}
+  - {fileID: 21300000, guid: f16a7e14a562fe24398e03261562c4d1, type: 3}
+  - {fileID: 21300000, guid: cd783664301d4424da57171c6c130a59, type: 3}
+  - {fileID: 21300000, guid: 635d09e44f4f2864fa710d89024a56d7, type: 3}
+  - {fileID: 21300000, guid: a57dc1b582d5dc64196f484e21ee9876, type: 3}
+  - {fileID: 21300000, guid: d3a682c532de9b641a5b830a96ccdb09, type: 3}
+  - {fileID: 21300000, guid: 3fe860173c616bd4286bbf3ea8da8648, type: 3}
+  - {fileID: 21300000, guid: fc4e0767e91322b4caa5497318c6ac35, type: 3}
+  - {fileID: 21300000, guid: a9b195f75bb23274dbf048ac7799bbc6, type: 3}
+  - {fileID: 21300000, guid: 9b149b28079367948a52d6790ee2b286, type: 3}
+  - {fileID: 21300000, guid: 827ead287ad94904ba6a417767f754f0, type: 3}
+  - {fileID: 21300000, guid: 0e41265a6fc0cf6499c36a9fb1db8912, type: 3}
+  - {fileID: 21300000, guid: fa79273ddf86ff945b093d274bce13ba, type: 3}
+  - {fileID: 21300000, guid: f12342ed41b7cfa4686df3cc16602813, type: 3}
+  - {fileID: 21300000, guid: 5b9fbffd17c77304cb778e1c01f7667a, type: 3}
+  - {fileID: 21300000, guid: 392bd15e066c170428f562321196c0f9, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - part_15
+  - part_3
+  - part_11
+  - part_8
+  - part_6
+  - part_4
+  - part_16
+  - part_7
+  - part_10
+  - part_0
+  - backgroundFull
+  - part_9
+  - part_5
+  - background
+  - part_2
+  - part_14
+  - part_13
+  - part_12
+  - part_1
+  m_RenderDataMap: {}
+  m_Tag: EleventhMinigameSpriteAtlas
+  m_IsVariant: 0
